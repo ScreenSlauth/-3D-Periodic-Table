@@ -58,4 +58,49 @@ npm install
 # Run the development server
 npm run dev
 ```
+## 🧪 Usage
+
+- Hover over elements for detailed information.
+
+- Click to toggle extended views (optional feature coming soon).
+
+## 📁 Project Structure
+
+<pre>
+<code>
+├── public/              # Static assets (e.g., icons, models)
+├── src/
+│   ├── components/      # 3D scene logic, UI components
+│   ├── data/            # Element metadata (JSON or JS)
+│   └── main.js          # App entry point
+├── index.html           # Root HTML template
+└── vite.config.js       # Vite config
+</code>
+</pre>
+
+## 👥 Contributing
+We welcome contributions from the community!
+
+- Fork the repository
+
+- Create your feature branch: git checkout -b feature/AmazingFeature
+
+- Commit your changes: git commit -m 'Add some AmazingFeature'
+
+- Push to the branch: git push origin feature/AmazingFeature
+
+- Submit a pull request
+
+## 🧑‍🎨 Credits
+This project was built by @ScreenSlauth with ❤️ for science and 3D web innovation.
+
+- Special thanks to:
+
+- Three.js Docs
+
+- MDN Web Docs
+
+- Vite
+
+## ✅ Deploy on Vercel or Netlify and update the Live Demo link.
 
