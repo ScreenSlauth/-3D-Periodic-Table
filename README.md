@@ -1,5 +1,5 @@
 
-# #🧪 3D Periodic Table
+## 🧪 3D Periodic Table
 
 A 3D visualization of the Periodic Table of Elements built with modern web technologies.
 
